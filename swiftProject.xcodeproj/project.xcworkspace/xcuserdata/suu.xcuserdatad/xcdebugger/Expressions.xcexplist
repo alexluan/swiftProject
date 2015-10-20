@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PostViewController.(configureView in _151BC7856150EAD70F1A6C731CBB2075)() -&gt; ():PostViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PostViewController.post.didset:PostViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PostViewController.tempPost.didset:PostViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
